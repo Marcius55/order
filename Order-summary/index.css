@@ -1,0 +1,95 @@
+body {
+  background-color: green;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.container {
+  background-color: white;
+  width: 425px;
+  height: 600px;
+  text-align: center;
+  border-radius: 16px;
+}
+
+.hero-img {
+  width: 100%;
+  border-radius: 16px 16px 0 0;
+}
+
+.order-summary {
+  font-size: 1.7rem;
+  margin-top: 30px;
+}
+
+.description {
+  width: 300px;
+  margin-left: 65px;
+  color: hsl(224, 23%, 55%);
+}
+
+.card {
+  background-color: hsl(225, 100%, 94%, 0.2);
+  width: 70%;
+  margin-left: 55px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.primary-flex {
+  
+}
+
+.secondary-flex {
+}
+
+.outer-flex {
+ 
+}
+
+.music-img {
+}
+
+.annual-plan {
+  font-weight: 700;
+}
+
+.price {
+ 
+}
+
+a {
+  
+}
+
+.payment-btn {
+  color: white;
+  background-color: hsl(245, 75%, 52%);
+  border: none;
+  margin-top: 22px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 310px;
+  display: block;
+  margin-left: 55px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 8px;
+  font-weight: 600;
+  box-shadow: 0 2px 10px hsl(245, 75%, 52%);
+}
+
+.cancel-btn {
+margin-top: 18px;
+width: 310px;
+border: none;
+background-color: white;
+font-weight: 600;
+color: hsl(224, 23%, 55%);
+}
